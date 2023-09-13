@@ -1,0 +1,3 @@
+Distance: 6894
+Reward: -1831
+Coins: 6
